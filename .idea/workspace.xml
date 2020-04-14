@@ -25,8 +25,21 @@
       </state>
     </system>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\archi\AndroidStudioProjects\Claves\DarkJ.jks" />
+    <option name="KEY_ALIAS" value="darkj" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aRzXzvXRp04J80sHEzleQAsH9Y" />
   <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\archi\AndroidStudioProjects\calcularSalario\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
   <component name="RunDashboard">
@@ -113,5 +126,16 @@
       <updated>1586713238177</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
